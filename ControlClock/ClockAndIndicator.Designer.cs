@@ -1,6 +1,6 @@
 ﻿namespace ControlClock
 {
-    partial class Form1
+    partial class ClockAndIndicator
     {
         /// <summary>
         /// Обязательная переменная конструктора.
